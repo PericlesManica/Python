@@ -1,7 +1,6 @@
 opcao_menu = 0
 extrato = [0.00]
 deposito = 0
-contador = 0
 soma_extrato = 0
 quantidade_de_saques = 0
 
